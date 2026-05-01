@@ -1,0 +1,14 @@
+C:\Users\Tiara Limbong\source\repos\Looping_VS\Looping_VS\bin\Debug\net10.0\Looping_VS.exe
+C:\Users\Tiara Limbong\source\repos\Looping_VS\Looping_VS\bin\Debug\net10.0\Looping_VS.deps.json
+C:\Users\Tiara Limbong\source\repos\Looping_VS\Looping_VS\bin\Debug\net10.0\Looping_VS.runtimeconfig.json
+C:\Users\Tiara Limbong\source\repos\Looping_VS\Looping_VS\bin\Debug\net10.0\Looping_VS.dll
+C:\Users\Tiara Limbong\source\repos\Looping_VS\Looping_VS\bin\Debug\net10.0\Looping_VS.pdb
+C:\Users\Tiara Limbong\source\repos\Looping_VS\Looping_VS\obj\Debug\net10.0\Looping_VS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tiara Limbong\source\repos\Looping_VS\Looping_VS\obj\Debug\net10.0\Looping_VS.AssemblyInfoInputs.cache
+C:\Users\Tiara Limbong\source\repos\Looping_VS\Looping_VS\obj\Debug\net10.0\Looping_VS.AssemblyInfo.cs
+C:\Users\Tiara Limbong\source\repos\Looping_VS\Looping_VS\obj\Debug\net10.0\Looping_VS.csproj.CoreCompileInputs.cache
+C:\Users\Tiara Limbong\source\repos\Looping_VS\Looping_VS\obj\Debug\net10.0\Looping_VS.dll
+C:\Users\Tiara Limbong\source\repos\Looping_VS\Looping_VS\obj\Debug\net10.0\refint\Looping_VS.dll
+C:\Users\Tiara Limbong\source\repos\Looping_VS\Looping_VS\obj\Debug\net10.0\Looping_VS.pdb
+C:\Users\Tiara Limbong\source\repos\Looping_VS\Looping_VS\obj\Debug\net10.0\Looping_VS.genruntimeconfig.cache
+C:\Users\Tiara Limbong\source\repos\Looping_VS\Looping_VS\obj\Debug\net10.0\ref\Looping_VS.dll
