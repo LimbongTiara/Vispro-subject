@@ -1,0 +1,14 @@
+C:\Users\Tiara Limbong\source\repos\Tugas_VS2\Tugas_VS2\bin\Debug\net10.0\Tugas_VS2.exe
+C:\Users\Tiara Limbong\source\repos\Tugas_VS2\Tugas_VS2\bin\Debug\net10.0\Tugas_VS2.deps.json
+C:\Users\Tiara Limbong\source\repos\Tugas_VS2\Tugas_VS2\bin\Debug\net10.0\Tugas_VS2.runtimeconfig.json
+C:\Users\Tiara Limbong\source\repos\Tugas_VS2\Tugas_VS2\bin\Debug\net10.0\Tugas_VS2.dll
+C:\Users\Tiara Limbong\source\repos\Tugas_VS2\Tugas_VS2\bin\Debug\net10.0\Tugas_VS2.pdb
+C:\Users\Tiara Limbong\source\repos\Tugas_VS2\Tugas_VS2\obj\Debug\net10.0\Tugas_VS2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tiara Limbong\source\repos\Tugas_VS2\Tugas_VS2\obj\Debug\net10.0\Tugas_VS2.AssemblyInfoInputs.cache
+C:\Users\Tiara Limbong\source\repos\Tugas_VS2\Tugas_VS2\obj\Debug\net10.0\Tugas_VS2.AssemblyInfo.cs
+C:\Users\Tiara Limbong\source\repos\Tugas_VS2\Tugas_VS2\obj\Debug\net10.0\Tugas_VS2.csproj.CoreCompileInputs.cache
+C:\Users\Tiara Limbong\source\repos\Tugas_VS2\Tugas_VS2\obj\Debug\net10.0\Tugas_VS2.dll
+C:\Users\Tiara Limbong\source\repos\Tugas_VS2\Tugas_VS2\obj\Debug\net10.0\refint\Tugas_VS2.dll
+C:\Users\Tiara Limbong\source\repos\Tugas_VS2\Tugas_VS2\obj\Debug\net10.0\Tugas_VS2.pdb
+C:\Users\Tiara Limbong\source\repos\Tugas_VS2\Tugas_VS2\obj\Debug\net10.0\Tugas_VS2.genruntimeconfig.cache
+C:\Users\Tiara Limbong\source\repos\Tugas_VS2\Tugas_VS2\obj\Debug\net10.0\ref\Tugas_VS2.dll
